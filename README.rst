@@ -3,7 +3,9 @@ userpass
 ===========
 
 
-A small username (access_key) and password (secret_key) generator.
+A small username (access_key) and password (secret_key) generator. It
+is a wrapper for python secrets and uses examples from the docs to save
+a few keystrokes for a common task.
 
 
 Description
@@ -18,7 +20,7 @@ The command prints randomly generated keys.
 .. code-block:: bash
 
     % userpass
-    ACESS_KEY=3MNJQ2ZezP531s6PEJlH0AP6mhoQjM3MRMDFY8K-BuI
+    ACCESS_KEY=3MNJQ2ZezP531s6PEJlH0AP6mhoQjM3MRMDFY8K-BuI
     SECRET_KEY=l894Hssk4ltQKgkg8G8IWyyXZjO-JxBvieQClvtoJ7pgS6DX8g7IAmISlwvl-gSIsSr8tGUAVgDWYVsPl_robg
 
 
