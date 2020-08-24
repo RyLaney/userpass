@@ -21,7 +21,7 @@ setup(
     url='http://github.com/Rylaney/userpass',
     author='Ryan Laney',
     author_email='ryanlaney [at] teus [dot] media',
-    license='MIT',
+    license='Apache 2.0',
     packages=['userpass'],
     test_suite='nose.collector',
     tests_require=['nose', 'nose-cover3'],
