@@ -3,7 +3,9 @@ userpass
 ===========
 
 
-A small username (access_key) and password (secret_key) generator.
+A small username (access_key) and password (secret_key) generator. It
+is a wrapper for python secrets and uses examples from the docs to save
+a few keystrokes for a common task.
 
 
 Description
